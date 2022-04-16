@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋, I am Omkar Dhomane</h1>
-<p align="center">This is my GitHub Portfolio which contains information about my professional background, core skills, experience and some of my interesting projects. If you share the same passion for technology as I do, Let us connect!</p>
+<p align="left">This is my GitHub Portfolio which contains information about my professional background, core skills, experience and some of my interesting projects. If you share the same passion for technology as I do, Let us connect!</p>
 
 ---
 
