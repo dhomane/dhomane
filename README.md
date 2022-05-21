@@ -14,17 +14,17 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My Portflio, Blog and Open-Source Github Projects
+- 💻 I’m currently working on My Professional Portflio, Blog and Open-Source Github Projects
 
-- 🌱 I’m currently learning ML, Data Science and Blockchain
+- 🔥 I’m currently learning ML, Data Science and Blockchain
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles and DevOps Webinars
+- ✅ I’m looking to collaborate on Projects, Tech Articles and DevOps Webinars
 
-- 👨‍💻 All of my projects are available at [https://github.com/dhomane](https://github.com/dhomane)
+- 💯 All of my projects are available at [https://github.com/dhomane](https://github.com/dhomane)
 
-- 📫 How to reach me **omkardhomane@gmail.com** | **info@dhomane.com**
+- ✉️ How to reach me: **omkardhomane@gmail.com** | **info@dhomane.com**
 
-- 📄 Know about my experiences [https://www.omkardhomane.com](https://www.omkardhomane.com) | [https://www.dhomane.com](https://www.dhomane.com)
+- 🌎 Know more about my skills and experience: [https://www.omkardhomane.com](https://www.omkardhomane.com) | [https://www.dhomane.com](https://www.dhomane.com)
 
 ------
 
