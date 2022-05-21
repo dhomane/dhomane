@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://pixabay.com/get/g94b9da3620d7ef3a793b535eeec0f66cca7b78b14ab0d5fed4030604b65ffc43eccb4960ff29efac5096cae447e92e63.jpg" alt="cover" />
+<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2020/05/25/02/39/landscape-5216722_960_720.jpg" alt="cover" />
 </div>
 
 <h1> Omkar Dhomane </h1>
